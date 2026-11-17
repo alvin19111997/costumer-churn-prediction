@@ -14,9 +14,9 @@ The model achieved approximately **95% accuracy** and **0.82 F1 for the churn cl
 
 ## How to Run
 1. Clone this repository.
-2. Review the notebook's expected input paths and use only anonymized data.
+2. Review the input paths in `_PRCL-0017 – Customer Churn Prediction Project.ipynb` and use only anonymized data.
 3. Install Python, Jupyter, pandas, NumPy, scikit-learn, and XGBoost.
-4. Open and run the Customer Churn Prediction notebook.
+4. Open and run `_PRCL-0017 – Customer Churn Prediction Project.ipynb`.
 
 ## Tech Stack
 Python, pandas, NumPy, scikit-learn, XGBoost, Jupyter Notebook
